@@ -1,18 +1,15 @@
-import './App.css';
-import HomePage from './HomePage';
-import Nav from './Nav';
-import BookingPage from './BookingPage';
+import { Route, Routes } from "react-router-dom";
+import Homepage from "./pages/Homepage";
+import ReservationPage from "./pages/ReservationPage";
+import "./styles.css";
 
-
-function App() {
+export default function App() {
   return (
-    <div>
-      <Nav />
-      <HomePage/>
-
-      </div>
-  )
+    <>
+      <Routes>
+        <Route path="/" element={<Homepage />} />
+        <Route path="/reservation" element={<ReservationPage />} />
+      </Routes>
+    </>
+  );
 }
-
-export default App;
-
