@@ -1,0 +1,18 @@
+{
+  "files": {
+    "main.css": "/final-project/static/css/main.1621af0e.css",
+    "main.js": "/final-project/static/js/main.7674512a.js",
+    "static/media/bruschetta1.jpg": "/final-project/static/media/bruschetta1.02db8bb7aecd0a390e40.jpg",
+    "static/media/salad.jpg": "/final-project/static/media/salad.00b1567f5a694e5c3945.jpg",
+    "static/media/creme.jpg": "/final-project/static/media/creme.3a9eaace5be031d2d7a0.jpg",
+    "static/media/gourmet.jpg": "/final-project/static/media/gourmet.0ff5cb7910f43c4d0a52.jpg",
+    "static/media/logo.jpg": "/final-project/static/media/logo.7aa41df0270b68cbabda.jpg",
+    "index.html": "/final-project/index.html",
+    "main.1621af0e.css.map": "/final-project/static/css/main.1621af0e.css.map",
+    "main.7674512a.js.map": "/final-project/static/js/main.7674512a.js.map"
+  },
+  "entrypoints": [
+    "static/css/main.1621af0e.css",
+    "static/js/main.7674512a.js"
+  ]
+}
